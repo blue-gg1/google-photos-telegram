@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Private API keys and so on
+secret-settings.py
+secret_settings.py
+libs/secrets_settings.py
+
 # Distribution / packaging
 .Python
 build/
